@@ -1,2 +1,14 @@
 Отличие в файле README:
  with nice buttons on his jacket (buttons branch)
+11 коммитов:
+init
+heat added
+boots
+README added
+dots
+fix readme
+Merge branch 'buttons' into boots_buttons
+Merge branch 'boots' into boots_buttons
+Merge branch 'hat'
+Merge branch 'boots_buttons'
+отличия
